@@ -1,0 +1,12 @@
+[submodule "image_utils_ros_pkgs"]
+	path = image_utils_ros_pkgs
+	url = https://github.com/dcentelles/image_utils_ros_pkgs.git
+[submodule "merbots_whrov_msgs"]
+	path = merbots_whrov_msgs
+	url = https://github.com/dcentelles/merbots_whrov_msgs.git
+[submodule "ros_whrov_hmi"]
+	path = ros_whrov_hmi
+	url = https://github.com/dcentelles/ros_whrov_hmi
+[submodule "wireless_ardusub"]
+	path = wireless_ardusub
+	url = https://github.com/dcentelles/wireless_ardusub
